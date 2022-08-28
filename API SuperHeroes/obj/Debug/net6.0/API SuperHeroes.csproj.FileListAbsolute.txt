@@ -1,0 +1,55 @@
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\appsettings.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\API SuperHeroes.exe
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\API SuperHeroes.deps.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\API SuperHeroes.runtimeconfig.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\API SuperHeroes.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\API SuperHeroes.pdb
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.csproj.AssemblyReference.cache
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.AssemblyInfo.cs
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\scopedcss\bundle\API SuperHeroes.styles.css
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.csproj.CopyComplete
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\refint\API SuperHeroes.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.pdb
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\API SuperHeroes.genruntimeconfig.cache
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\obj\Debug\net6.0\ref\API SuperHeroes.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Npgsql.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\circarva\source\repos\API SuperHeroes\API SuperHeroes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
